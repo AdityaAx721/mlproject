@@ -1,0 +1,3 @@
+[ 2025-11-13 20:10:45,381 ] 8 root - INFO - The execution has started
+[ 2025-11-13 20:10:45,381 ] 20 root - INFO - Reading data from mysql database started
+[ 2025-11-13 20:10:45,384 ] 18 root - INFO - Custome Exception

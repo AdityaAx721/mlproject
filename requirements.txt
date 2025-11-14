@@ -1,3 +1,8 @@
 numpy
 pandas
+python-dotenv
 #-e .
+mysql-connector-python
+pymysql
+scikit-learn
+cryptography
